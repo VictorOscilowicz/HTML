@@ -1,14 +1,17 @@
 //declare samecolor() here
-function samecolor(hex){
-  let hex=
+function samecolor(){
+  let newcolor = "";
+  let
 
-  for(let i=0;i<section.samecolor.length;i++){
+  for(let i=0;i<section.div;i++){
+    document.div=
+    document.div=
 
   }
 }
 //declare diffcolor() here
-function diffcolor(hex){
-  let hex=
+function diffcolor(){
+  let color = "";
 
   for(let i=0;i<section.diffcolor.length;i++){
 
